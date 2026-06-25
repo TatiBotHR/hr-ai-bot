@@ -1,5 +1,7 @@
 python-telegram-bot
-google-generativeai
+requests
 python-dotenv
 pypdf
 python-docx
+gspread
+oauth2client
